@@ -2,3 +2,4 @@
 demo game 
 
 Author: Shrinkydonkey
+type = game
